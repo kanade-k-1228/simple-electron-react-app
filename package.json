@@ -1,13 +1,13 @@
 {
-  "name": "nme",
-  "description": "nme",
+  "name": "simple-electron-react-app",
+  "description": "simple-electron-react-app",
   "version": "0.1.0",
   "license": "MIT",
   "author": {
-    "name": "ohta"
+    "name": "kanade-k-1228"
   },
   "repository": {
-    "url": "https://github.com/ohta/nme.git"
+    "url": "https://github.com/kanade-k-1228/simple-electron-react-app"
   },
   "main": "dist/main.js",
   "scripts": {
